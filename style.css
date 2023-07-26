@@ -1,0 +1,72 @@
+body {
+    margin-left: 0px;
+    margin-top: 0px
+    margin-right: 0px;
+    color: white;;
+}
+.ZPRO{
+  
+  font-size: 70px;
+  background-color: red;
+  color: white;
+  margin-top: 0px;
+  padding-left: 4px;
+  padding-right: 4px;
+  margin-left: 0px;
+  
+}
+.XPRO{
+  font-size: 50px;
+  color: white;
+}
+.YPRO{
+  font-style: italic;
+  font-weight: none;
+  text-align: left;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 0px;
+  width: 800px;
+  border: 2px;
+  color: white;
+}
+.WWW{
+  color: whitesmoke;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: underline;
+  color: limegreen;
+}
+.WEB{
+  
+  font-size: 50px;
+  font-weight: bold;
+  text-align: left;
+  color: white-space;
+  margin-top: 30%;
+}
+.WEBS{
+  
+  font-size: 40px;
+  font-weight: bold;
+  text-align: left;
+  color: white;
+  font-style: italic;
+  margin-left: 4%;
+  padding-left: 4%;
+}
+.SEC-PIC{
+  text-align: top;
+}
+.INFO{
+  color: limegreen;
+}
+.SIR {
+  color: gold;
+}
+.hr{
+  length: 20px;
+}
+.L1{
+  font-size: 50px;
+}
