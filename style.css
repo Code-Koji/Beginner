@@ -70,3 +70,19 @@ body {
 .L1{
   font-size: 50px;
 }
+.EMPEROR{
+  font-size: 80px;
+  padding-bottom: 20px;
+  color: white;
+  text-decoration: none;
+  background-color: white;
+}
+.DOS-LESSON{
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 20%;
+}
+.UNDER{
+  font-size: 80px;
+  margin-top: 10%;
+    }
